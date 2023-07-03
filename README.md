@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there,<br>I'm Rushil Shivade, a Pre-Final year student at VJTI, Mumbai, pursuing my BTech in IT and currently a Research Intern @IIT-Bombay.<br><br>🔭 I’m currently working on a cybersecurity software in development at my internship.<br>👯 I’m looking to collaborate on frontend and backend web development.<br>🤝 I’m looking for help with ReactJS.<br>🌱 I’m currently learning ReactJS, Headless CMS.<br>💬 Ask me about development, Machine learning, design etc.<br>⚡ Fun fact : I don't use ChatGPT 😉(Just kidding) 
+Hi there,<br>I'm Rushil Shivade, a Pre-Final year student at VJTI, Mumbai, pursuing my BTech in IT and currently a Research Intern @IIT-Bombay.<br><br>🔭 I’m currently working on an EDR tool in development at my internship.<br>👯 I’m looking to collaborate on frontend and backend web development.<br>🤝 I’m looking for help with ReactJS.<br>🌱 I’m currently learning ReactJS, Headless CMS.<br>💬 Ask me about development, Machine learning, design etc.<br>⚡ Fun fact : I don't use ChatGPT 😉(Just kidding) 
 
 
 ## 🌐 Socials:
